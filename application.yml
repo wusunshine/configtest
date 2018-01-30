@@ -33,6 +33,6 @@ mybatis:
 
 spring:
   redis:
-    host: 127.0.0.1
-    #host: 172.18.173.76
+    #host: 127.0.0.1
+    host: 172.18.173.79
     port: 6379
